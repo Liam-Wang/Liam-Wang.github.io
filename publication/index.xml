@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication-rsses on Liam&#39;s Blog</title>
+    <title>Publication-rsses on tranquilpeak</title>
     <link>https://liam-wang.github.io/publication/index.xml</link>
-    <description>Recent content in Publication-rsses on Liam&#39;s Blog</description>
+    <description>Recent content in Publication-rsses on tranquilpeak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Liam Wang</copyright>
     <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liam-wang.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
